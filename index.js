@@ -28,5 +28,5 @@ if (argumentos[0] === "registrar") {
 
     }
 } else {
-    console.log("Indique operación válida: Indique Registrar o Leer");
+    console.log("Indique operación válida. Opciones: Registrar o Leer");
 };
